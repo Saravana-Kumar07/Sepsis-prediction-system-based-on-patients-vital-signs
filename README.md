@@ -1,4 +1,4 @@
-# <p align="center"> Sepsis-prediction-system-based-on-patients-vital-signs </p>
+# <p align="center"> Sepsis prediction system based on patients vital signs </p>
 
 This sepsis prediction system enables healthcare professionals to assess a patient’s risk of sepsis by inputting clinical data into a user-friendly web interface. Using a trained machine learning model on the backend, the system analyzes vital signs and lab results to determine if a patient is at risk of developing sepsis, aiding in early diagnosis and intervention.
 
