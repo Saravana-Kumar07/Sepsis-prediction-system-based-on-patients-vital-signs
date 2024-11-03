@@ -152,7 +152,6 @@ joblib.dump(ensemble_model, 'sepsis_model1.pkl')
 ```
 
 ## Output:
-Sepsis Prediction System
 ![](./o1.png)
 ![](./o2.png)
 ![](./o3.png)
