@@ -13,7 +13,7 @@ This sepsis prediction system enables healthcare professionals to assess a patie
 2. Essential Python Packages: Includes libraries such as pandas, numpy, scikit-learn for data handling and machine learning functionalities.
 
 ## Flow chart:
-![](./ad.png.jpg)
+![](./ad.png)
 
 ## Installation:
 1. Clone the repository :
